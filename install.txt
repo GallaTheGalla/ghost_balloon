@@ -1,0 +1,4 @@
+charset,UTF-8
+type,balloon
+name,Ghost Balloon
+directory,ghost_balloon_gz

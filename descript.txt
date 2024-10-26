@@ -1,0 +1,103 @@
+charset,UTF-8
+type,balloon
+use_self_alpha,1
+use_input_alpha,1
+overlay_outside_balloon,1
+
+
+//——— Basic information ———
+name,Ghost Balloon
+craftman,Galla & Zichqec
+craftmanw,Galla & Zichqec
+craftmanurl,https://gallathegalla.github.io/gtg-ghosts/
+homeurl,https://raw.githubusercontent.com/GallaTheGalla/ghost_balloon/main/
+
+
+//——— Display area ———
+origin.x,0
+origin.y,50
+
+validrect.left,33
+validrect.top,48
+validrect.right,-33
+validrect.bottom,-30
+
+wordwrappoint.x,-40
+
+
+//——— Font ———
+font.name,Sitka
+font.height,14
+
+font.color.r,030
+font.color.g,015
+font.color.b,056
+
+anchor.font.color.r,116
+anchor.font.color.g,061
+anchor.font.color.b,175
+
+cursor.font.color.r,116
+cursor.font.color.g,061
+cursor.font.color.b,175
+
+cursor.style,underline
+
+//disable.font.color.r,146
+//disable.font.color.g,135
+//disable.font.color.b,178
+
+
+//——— Arrows ———
+arrow0.x,-14
+arrow0.y,40
+
+arrow1.x,-14
+arrow1.y,-40
+
+
+//——— Online marker ———
+onlinemarker.x,0
+onlinemarker.y,0
+
+onlinemarker.interval,200
+
+
+//——— SSTP ———
+sstpmarker.x,55
+sstpmarker.y,33
+
+sstpmessage.font.name,Calibri
+sstpmessage.font.height,12
+
+sstpmessage.x,67
+sstpmessage.xr,-33
+sstpmessage.y,33
+
+sstpmessage.font.color.r,127
+sstpmessage.font.color.g,113
+sstpmessage.font.color.b,152
+
+
+//——— Number ———
+number.font.name,Calibri
+number.font.height,12
+
+number.xr,-33
+number.y,-30
+
+number.font.color.r,127
+number.font.color.g,113
+number.font.color.b,152
+
+
+//——— Input box ———
+communicatebox.x,21
+communicatebox.y,19
+
+communicatebox.width,324
+communicatebox.height,20
+
+communicatebox.font.color.r,030
+communicatebox.font.color.g,015
+communicatebox.font.color.b,056
